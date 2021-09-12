@@ -6,7 +6,8 @@ function ContactForm() {
   const [formState, setFormState] = useState({ name: '', email: '', message: '' });
 
   const [errorMessage, setErrorMessage] = useState('');
-  const { name, email, message } = formState;
+  const { name, email, message } = formState; 
+  
 
   const handleSubmit = (e) => {
     e.preventDefault();

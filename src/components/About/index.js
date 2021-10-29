@@ -8,7 +8,7 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover"/>
       <div className="my-2">
         <p>
-          Lorem ipsum hadihadshjasdo asghdsaihas ashgdhiag asgdhagdhakhd ashgfjvfsKjs dahfjsh dshfjsHzfkjhsdKJkj dsjhfsjkdsjkh hdj  dahz hadih hasih  dhjahdfjahj.
+          I'm a photographer that likes to take pictures of things that interest me.
         </p>
       </div>
     </section>
